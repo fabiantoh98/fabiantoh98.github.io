@@ -1,15 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from './js/navbar';
+import './App.scss';
+import Home from './js/home';
+import AboutMe from './js/about_me';
+
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+} from "react-router-dom";
+import Footer from './js/footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1> Fabian Personal Project </h1>
-        <p> There is no public project for now </p>
-        <p> Developing and migrating in progres </p>
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-      </header>
+    <div className="app">
+      <div className="main">
+        <Router>
+        <Navbar/>
+          <Routes>
+            <Route path='/' element={<Home/>}></Route>
+            <Route path='/about_me' element={<AboutMe/>}></Route>
+          </Routes>
+        </Router>
+      </div>
+    <Footer/>
     </div>
   );
 }

@@ -2,7 +2,7 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage":"https://fabiantoh98.github.io/fabiantoh98.github.io",
+  "homepage":"https://fabiantoh98.github.io/fabian-personal-project",
   "scripts":{
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"

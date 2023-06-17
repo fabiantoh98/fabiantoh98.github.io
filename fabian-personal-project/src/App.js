@@ -1,14 +1,14 @@
-import Navbar from './js/navbar';
+import Navbar from './navbar';
 import './App.scss';
-import Home from './js/home';
-import AboutMe from './js/about_me';
+import Home from './home';
+import AboutMe from './about_me';
 
 import {
   BrowserRouter as Router,
   Route,
   Routes,
 } from "react-router-dom";
-import Footer from './js/footer';
+import Footer from './footer';
 
 function App() {
   return (

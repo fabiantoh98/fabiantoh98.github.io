@@ -1,5 +1,5 @@
-import './../css/footer.scss'
-import linkedin from './../public/images/linkedin.png'
+import './footer.scss'
+import linkedin from './public/images/linkedin.png'
 
 function Footer() {
     return (

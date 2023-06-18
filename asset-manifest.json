@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fabian-personal-project/static/css/main.c99e1670.css",
+    "main.js": "/fabian-personal-project/static/js/main.7dda0fd1.js",
+    "static/js/787.79754519.chunk.js": "/fabian-personal-project/static/js/787.79754519.chunk.js",
+    "index.html": "/fabian-personal-project/index.html",
+    "main.c99e1670.css.map": "/fabian-personal-project/static/css/main.c99e1670.css.map",
+    "main.7dda0fd1.js.map": "/fabian-personal-project/static/js/main.7dda0fd1.js.map",
+    "787.79754519.chunk.js.map": "/fabian-personal-project/static/js/787.79754519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99e1670.css",
+    "static/js/main.7dda0fd1.js"
+  ]
+}

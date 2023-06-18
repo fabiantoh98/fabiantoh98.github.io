@@ -1,0 +1,21 @@
+.navbar {
+    width: 200px;
+    height: 100%;
+    background-color: #282c34;
+    color: white;
+    margin-top: 100px;
+    padding-right: 20px;
+    .links-container {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+        .link {
+            font-size: 25px;
+            width: 100%;
+            color: white;
+            background-color: transparent;
+            border: 1px solid gray;
+            border-radius: 3px;
+        }
+    }
+}

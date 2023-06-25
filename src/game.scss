@@ -1,0 +1,26 @@
+.game {
+    height: 100%;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    .game-navbar {
+        display: flex;
+        margin-bottom: 50px;
+        .game-link {
+            font-size: 25px;
+            width: 100%;
+            color: white;
+            background-color: transparent;
+            border: 1px solid gray;
+            border-radius: 3px;
+        }
+    }
+    .main-game {
+        padding: 20px;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+}

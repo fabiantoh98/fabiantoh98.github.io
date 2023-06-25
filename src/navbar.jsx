@@ -15,6 +15,9 @@ function Navbar() {
       <button className='link' onClick={() => {handleNavigate('/about_me');}}>
           About Me
       </button>
+      <button className='link' onClick={() => {handleNavigate('/game');}}>
+          Game
+      </button>
       </div>
     </div>
     );

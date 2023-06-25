@@ -1,8 +1,8 @@
 import Navbar from './navbar';
 import './App.scss';
-import Home from './home';
-import AboutMe from './about_me';
-import Game from './game';
+import Home from './pages/home';
+import AboutMe from './pages/about_me';
+import Game from './pages/game';
 
 import {
   BrowserRouter as Router,

@@ -1,6 +1,6 @@
-import RandomNumber from './component/random_number';
+import RandomNumber from '../component/random_number';
 import { useState } from 'react';
-import './game.scss'
+import './../css/game.scss'
 
 const Game = () => {
     const [gameMode, setGameMode] = useState('random_number');

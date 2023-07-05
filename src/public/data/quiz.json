@@ -1,0 +1,288 @@
+[
+    {
+        "question": "Which of the following is not part of the 4 gospels in New Testament",
+        "option": [
+            "John",
+            "Mattew",
+            "Mark",
+            "Luke",
+            "Matthew"
+        ],
+        "answer": "Mattew",
+        "hint": "Spelling is important!",
+        "explanation": "The correct spelling is Matthew not Mattew"
+    },
+    {
+        "question": "How many 'books' are there in the protestant's Bible?",
+        "option": [
+            "73",
+            "66",
+            "39",
+            "27",
+            "None of the Above"
+        ],
+        "answer": "66",
+        "hint": "There is new and old testament but we don't include apocryphal books",
+        "explanation": "There is a total of 39 in OT, 27 in new testament which is total of 66 books"
+    },
+    {
+        "question": "What does NKJV stands for?",
+        "option": [
+            "Noble King James Version",
+            "Nice King Jesus Version",
+            "Notorious Knight Joe Version",
+            "New Junior Kindergartener Version",
+            "New King James Version"
+        ],
+        "answer": "New King James Version",
+        "hint": "It is a version of bible",
+        "explanation": "New King James Version is the correct version, the rest should not exist!"
+    },
+    {
+        "question": "Who is swallowed by a great fish so that he would go to Nineveh?",
+        "option": [
+            "Jonah",
+            "Joseph",
+            "Joshua",
+            "Peter",
+            "Moses"
+        ],
+        "answer": "Jonah",
+        "hint": "His name is one of the book in the bible!",
+        "explanation": "Jonah in the book of 'Jonah' is being swallowed by a great fish(or Leviathan)!"
+    },
+    {
+        "question": "Which bible books has the most number of chapters?",
+        "option": [
+            "Jonah",
+            "Revelation",
+            "Joshua",
+            "Psalms",
+            "Isaiah"
+        ],
+        "answer": "Psalms",
+        "hint": "There is 150 chapters in this book!",
+        "explanation": "Psalms is the book with the most number of chapters."
+    },
+    {
+        "question": "How did Enoch die?",
+        "option": [
+            "Flood",
+            "Raining of fire and brimstone",
+            "Murdered",
+            "Struck dead by God",
+            "None of the Above"
+        ],
+        "answer": "None of the Above",
+        "hint": "Genesis 5:24!",
+        "explanation": "Genesis 5:24 \nAnd Enoch walked with God; and he was not, for God took him."
+    },
+    {
+        "question": "How many children does Jacob has?",
+        "option": [
+            "2",
+            "7",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "13",
+        "hint": "Remember to include both sons and daughters",
+        "explanation": "Jacob has 12 sons and 1 daughter named Dinah"
+    },
+    {
+        "question": "There are 12 tribes of Israel, which does Jesus belongs to?",
+        "option": [
+            "Joseph",
+            "Levi",
+            "Judah",
+            "Issachar",
+            "Gad"
+        ],
+        "answer": "Judah",
+        "hint": "Jesus is also known as the lion of ___?",
+        "explanation": "Matthew 1:2 \nBased on Jesus genealogy, he is a descendant of Judah"
+    },
+    {
+        "question": "Who betrayed Jesus?",
+        "option": [
+            "Peter",
+            "Pilate",
+            "Mary",
+            "Judas",
+            "Lazarus"
+        ],
+        "answer": "Judas",
+        "hint": "He is one of the 12 apostles that Jesus appointed",
+        "explanation": "Luke 27:47-48 \nJudas betrayed Jesus with a kiss"
+    },
+    {
+        "question": "The scribes and Pharisees bring a woman caught in adultery to Jesus and asked him about stoning her. Who was the first one to cast the stone?",
+        "option": [
+            "Chief priest",
+            "One of the scribes",
+            "One of the Pharisees",
+            "Jesus",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "hint": "He is who is without sin among you, let him throw a stone at her first",
+        "explanation": "John 8:7-11 \nAfter hearing what Jesus said they went out one by one"
+    },
+    {
+        "question": "How many times Peter denies Jesus before the rooster crowed?",
+        "option": [
+            "None, he fell asleep because he is too tired",
+            "1",
+            "2",
+            "3",
+            "Countless, as he is being asked too many times"
+        ],
+        "answer": "3",
+        "hint": "Jesus told him that",
+        "explanation": "luke 22:34 \nThen He said, 'I tell you, Peter, the rooster shall not crow this day before you will deny three times that you know Me.'"
+    },
+    {
+        "question": "Which is not one of the seven feast of the Lord?",
+        "option": [
+            "Unleavened Bread",
+            "First fruits",
+            "Aged Wine",
+            "Trumpets",
+            "Atonement"
+        ],
+        "answer": "Wine",
+        "hint": "The answer might sounds right but it isn't",
+        "explanation": "The 7 feasts are Passover, Unleavened Bread, First Fruits, Shavuot, Trumpets, Atonement, Tabernacles"
+    },
+    {
+        "question": "In the parable of good samaritan (Luke10:25-35), who helped the wounded man?",
+        "option": [
+            "A Priest",
+            "His father",
+            "Levite",
+            "A Samaritan",
+            "The Thieves"
+        ],
+        "answer": "A Samaritan",
+        "hint": "What is this parable called?",
+        "explanation": "Luke 10:33 \nBut a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion."
+    },
+    {
+        "question": "When John the Baptist preach in the wilderness of Judea, he ate ___ and honey?",
+        "option": [
+            "Crickets",
+            "Dates",
+            "Milk",
+            "Locusts",
+            "Fruits"
+        ],
+        "answer": "Locusts",
+        "hint": "Not something most people will want to eat",
+        "explanation": "Matthew 3:4 \nNow John himself was clothed in camel's hair, with a leather belt around his waist; and his food was locusts and wild honey."
+    },
+    {
+        "question": "How many stones did David bring to take down Goliath?",
+        "option": [
+            "1",
+            "3",
+            "5",
+            "7",
+            "12"
+        ],
+        "answer": "5",
+        "hint": "The question stated 'bring' not 'kill'",
+        "explanation": "1Sam 17:40 \nThen he took his staff in his hand; and he chose for himself five smooth stones from the brook..."
+    },
+    {
+        "question": "The Lord rained brimstone and fire on Sodom and Gomorrah. Lot's wife looked back and became ___?",
+        "option": [
+            "Statue of Liberty",
+            "Roasted Meat",
+            "Puddle of water",
+            "A Lump of Coal",
+            "A pillar of salt"
+        ],
+        "answer": "A pillar of salt",
+        "hint": "It is probably still standing",
+        "explanation": "Gen 19:26 \nBut his wife looked back behind him, and she became a pillar of salt."
+    },
+    {
+        "question": "Fill in the blank. For God so loved the world that He gave His only begotten Son, ______",
+        "option": [
+            "that the world through Him might be saved.",
+            "that whoever believes in Him should not perish but have everlasting life.",
+            "that he who does not believe the Son shall not see life.",
+            "so he can see the kingdom of God.",
+            "that the light has come into the world."
+        ],
+        "answer": "that whoever believes in Him should not perish but have everlasting life",
+        "hint": "Something to do with life",
+        "explanation": "John 3:16 \nFor God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life."
+    },
+    {
+        "question": "What is Jacob's new name?",
+        "option": [
+            "Adam",
+            "Gideon",
+            "Issac",
+            "Israel",
+            "Joseph"
+        ],
+        "answer": "Israel",
+        "hint": "It is a name of a country today!",
+        "explanation": "Gen 32:28 \nAnd He said, “Your name shall no longer be called Jacob, but Israel; ..."
+    },
+    {
+        "question": "What did Jesus sat on when he enter into Jerusalem?",
+        "option": [
+            "Human",
+            "Horse",
+            "Colt",
+            "Lion",
+            "Porcupine"
+        ],
+        "answer": "Colt",
+        "hint": "It is unexpected but not ridiculous!",
+        "explanation": "Mark 11:7 \nThen they brought the colt to Jesus and threw their clothes on it, and He sat on it."
+    },
+    {
+        "question": "Which of the following is not a book in the bible?",
+        "option": [
+            "3 Peter",
+            "Romans",
+            "Acts",
+            "Amos",
+            "2 John"
+        ],
+        "answer": "3 Peter",
+        "hint": "The number seems fishy!",
+        "explanation": "There is only 1,2 Peter, but there is 1, 2, 3 John!"
+    },
+    {
+        "question": "In the parable of the wise and foolish virgins, what did the follish virgins lacked of?",
+        "option": [
+            "Candle",
+            "Lighter",
+            "Matchsticks",
+            "Oil",
+            "Lamp"
+        ],
+        "answer": "Oil",
+        "hint": "Some of these items don't exist in ancient times!",
+        "explanation": "Mat 25:3 \nThose who were foolish took their lamps and took no oil with them,"
+    },
+    {
+        "question": "Which of these characters get to lived an additional 15 years?",
+        "option": [
+            "Moses",
+            "Joshua",
+            "Peter",
+            "Hezekiah",
+            "James"
+        ],
+        "answer": "Hezekiah",
+        "hint": "He is a king from the old testament",
+        "explanation": "2 Kings 20:6 \nAnd I will add to your days fifteen years. ..."
+    } 
+]

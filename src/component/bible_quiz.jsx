@@ -34,7 +34,7 @@ const BibleQuiz = () => {
             }
             setAnswer('');
             setOptionSelected(-1);
-            if (quizNum === 10 & currentLife > 0) {
+            if (quizNum === 15 & currentLife > 0) {
                 alert("You win");
                 setIsGameOver(true);
             }

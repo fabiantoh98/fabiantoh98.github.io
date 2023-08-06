@@ -18,6 +18,9 @@ function Navbar() {
       <button className='link' onClick={() => {handleNavigate('/game');}}>
           Game
       </button>
+      <button className='link' onClick={() => {handleNavigate('/dashboard');}}>
+          Dashboard
+      </button>
       </div>
     </div>
     );

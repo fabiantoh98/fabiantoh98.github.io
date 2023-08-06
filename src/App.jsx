@@ -3,6 +3,7 @@ import './App.scss';
 import Home from './pages/home';
 import AboutMe from './pages/about_me';
 import Game from './pages/game';
+import Dashboard from './pages/dashboard';
 
 import {
   BrowserRouter as Router,
@@ -22,6 +23,7 @@ function App() {
             <Route path='/' element={<Home/>}></Route>
             <Route path='/about_me' element={<AboutMe/>}></Route>
             <Route path='/game' element={<Game/>}></Route>
+            <Route path='/dashboard' element={<Dashboard/>}></Route>
           </Routes>
         </Router>
       </div>

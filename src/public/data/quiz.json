@@ -284,5 +284,44 @@
         "answer": "Hezekiah",
         "hint": "He is a king from the old testament",
         "explanation": "2 Kings 20:6 \nAnd I will add to your days fifteen years. ..."
-    } 
+    },
+    {
+        "question": "How long did it rain when Noah was on the ark?",
+        "option": [
+            "Forty years",
+            "Seven days and seven nights",
+            "Forty days and forty nights",
+            "Seven years",
+            "Three days and three nights"
+        ],
+        "answer": "Forty days and forty nights",
+        "hint": "It is long but not that long",
+        "explanation": "Gen 7:12 \nAnd the rain was on the earth forty days and forty nights."
+    },
+    {
+        "question": "Which tribe has no part nor inheritance with Israel?",
+        "option": [
+            "Tribe of Levi",
+            "Tribe of Reuben",
+            "Tribe of Judah",
+            "Tribe of Manasseh",
+            "Tribe of Simeon"
+        ],
+        "answer": "Tribe of Levi",
+        "hint": "They are also known as priests!",
+        "explanation": "Deut 18:1 \nThe priests, the Levites—all the tribe of Levi—shall have [a]no part nor inheritance with Israel ..."
+    },
+    {
+        "question": "Which of this is not a fruit of the Spirit mentioned in Galatian 5s?",
+        "option": [
+            "Love",
+            "Peace",
+            "Faithfulness",
+            "Gentleness",
+            "Passion fruit"
+        ],
+        "answer": "Tribe of Levi",
+        "hint": "They are also known as priests!",
+        "explanation": "Gal 5:22-23 \nBut the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control ..."
+    }
 ]

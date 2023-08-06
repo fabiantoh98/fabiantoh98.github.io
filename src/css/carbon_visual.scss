@@ -1,0 +1,71 @@
+.carbon-visual {
+    height: 100%;
+    padding-bottom: 100px;
+    max-width: 1150px;
+    display: block;
+    margin: 0;
+    .title{
+        width: 100%;
+        font-size: 30px;
+        text-align: center;
+    }
+    .main-content{
+        display: flex;
+        .half-card{
+            width: 50%;
+            height: 75%;
+            .top-card{
+                height: 50%;
+            }
+            .bottom-card{
+                width: 100%;
+                height: 45%;
+                .filter-bar{
+                    display:flex;
+                    color: black;
+                    width: 100%;
+                    justify-content: left;
+                    align-items: center;
+                    .sector{
+                        width: 3000px;
+                        margin-left: 20px;
+                        display: flex;
+                        align-items: center;
+                        b {
+                            padding-right: 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .filter-bar{
+        display:flex;
+        color: black;
+        width: 100%;
+        padding-bottom: 20px;
+        justify-content: center;
+        .country{
+            width: 200px;
+            margin-left: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .month{
+            width: 120px;
+            margin-left: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .year{
+            width: 140px;
+            margin-left: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        b {
+            margin-bottom: 5px;
+        }
+    }
+    
+}

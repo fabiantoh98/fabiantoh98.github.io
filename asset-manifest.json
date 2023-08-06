@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/fabian-personal-project/static/css/main.e49a70df.css",
-    "main.js": "/fabian-personal-project/static/js/main.556582aa.js",
+    "main.css": "/fabian-personal-project/static/css/main.c7a11c9e.css",
+    "main.js": "/fabian-personal-project/static/js/main.9be88300.js",
     "static/js/787.79754519.chunk.js": "/fabian-personal-project/static/js/787.79754519.chunk.js",
+    "static/media/co2_emission.csv": "/fabian-personal-project/static/media/co2_emission.5ed4c265b7b0f7d3a18e.csv",
     "index.html": "/fabian-personal-project/index.html",
-    "main.e49a70df.css.map": "/fabian-personal-project/static/css/main.e49a70df.css.map",
-    "main.556582aa.js.map": "/fabian-personal-project/static/js/main.556582aa.js.map",
+    "main.c7a11c9e.css.map": "/fabian-personal-project/static/css/main.c7a11c9e.css.map",
+    "main.9be88300.js.map": "/fabian-personal-project/static/js/main.9be88300.js.map",
     "787.79754519.chunk.js.map": "/fabian-personal-project/static/js/787.79754519.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e49a70df.css",
-    "static/js/main.556582aa.js"
+    "static/css/main.c7a11c9e.css",
+    "static/js/main.9be88300.js"
   ]
 }

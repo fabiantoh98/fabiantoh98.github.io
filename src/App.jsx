@@ -46,7 +46,6 @@ function App() {
           <div className={`content ${!isNavbarOpen ? 'navbar-collapsed' : ''}`}>
             <ErrorBoundary>
               <Routes>
-                <Route path='/fabian-personal-project' element={<Home/>}></Route>
                 <Route path='/' element={<Home/>}></Route>
                 <Route path='/about_me' element={<AboutMe/>}></Route>
                 <Route path='/ml_projects' element={<MLProjects/>}></Route>

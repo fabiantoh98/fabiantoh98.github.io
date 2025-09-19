@@ -1,5 +1,5 @@
-import BibleQuiz from '../component/bible_quiz';
-import RandomNumber from '../component/random_number';
+import BibleQuiz from '../components/bible_quiz';
+import RandomNumber from '../components/random_number';
 
 import { useState } from 'react';
 import './../css/game.scss'
@@ -21,6 +21,10 @@ const Game = () => {
     return(
         
         <div className="game">
+            <div className="page-header">
+                <h1>Projects & Games</h1>
+                <p>Interactive applications built with React</p>
+            </div>
             <div className="game-navbar">
                 <button className={gameMode==='bible_quiz'?'selected-game-link':'game-link'} onClick={() => {handleChangeGame('bible_quiz');}}>Bible Quiz</button>
                 <button className={gameMode==='random_number'?'selected-game-link':'game-link'} onClick={() => {handleChangeGame('random_number');}}>Random Number</button>

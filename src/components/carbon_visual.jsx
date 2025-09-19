@@ -128,10 +128,10 @@ const CarbonVisual = () => {
                    el.sector === sector;});
         filterData =filterData.reduce((obj, item) => Object.assign(obj, { [item.month]: item.sum }), {});
         filterData = Object.keys(filterData).sort().reduce(
-            (obj, key) => { 
-              obj[key] = filterData[key]; 
+            (obj, key) => {
+              obj[key] = filterData[key];
               return obj;
-            }, 
+            },
             {}
           );
         console.log(filterData);
@@ -233,10 +233,12 @@ const CarbonVisual = () => {
 
     useEffect(() => {
         getSectorData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [co2Data, country, month, year]);
 
     useEffect(()=> {
         getMonthlyData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [co2Data, country, year, sector]);
 
     return(

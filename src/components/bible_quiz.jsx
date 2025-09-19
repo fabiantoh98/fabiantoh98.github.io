@@ -28,7 +28,7 @@ const BibleQuiz = () => {
                 setScore(score + 1);
             }
             else {
-                alert("You are wrong" + "\nexplanation:\n" + questionList[quizNum-1].explanation)
+                alert("You are wrong\nexplanation:\n" + questionList[quizNum-1].explanation)
                 currentLife = currentLife-1
                 setLife(currentLife);
             }
@@ -80,7 +80,7 @@ const BibleQuiz = () => {
         :
         <div>
             <h2>{'Question ' + quizNum + ' :'}</h2>
-            <h2>{'Score: ' + score + ' ' +'Lives: '+life}</h2>
+            <h2>{`Score: ${score} Lives: ${life}`}</h2>
             <div className='question'>{questionList[quizNum-1].question}</div>
             <div className='option-box'>
                 <div onClick={() => {handleSelectAnswer(0);}} className={optionSelected===0?'selected-option':'option'}>{questionList[quizNum-1].option[0]}</div>

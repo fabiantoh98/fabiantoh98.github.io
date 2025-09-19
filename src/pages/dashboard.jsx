@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './../css/dashboard.scss'
-import CarbonVisual from '../component/carbon_visual';
+import CarbonVisual from '../components/carbon_visual';
 
 const Dashboard = () => {
     // first visualisation
@@ -20,6 +20,10 @@ const Dashboard = () => {
     return(
         
         <div className="dashboard">
+            <div className="page-header">
+                <h1>Analytics Dashboard</h1>
+                <p>Data visualization and analysis tools</p>
+            </div>
             <div className="dashboard-navbar">
                 <button className={dashboardMode==='carbon_visual'?'selected-dashboard-link':'dashboard-link'} onClick={() => {handleChangeDashboard('carbon_visual');}}>CO2 Emission</button>
                 <button className={dashboardMode==='Coming Soon'?'selected-dashboard-link':'dashboard-link'} onClick={() => {handleChangeDashboard('Coming Soon');}}>Coming Soon</button>

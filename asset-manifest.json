@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fabian-personal-project/static/css/main.a94eb3d5.css",
-    "main.js": "/fabian-personal-project/static/js/main.6bb8e303.js",
-    "static/js/787.79754519.chunk.js": "/fabian-personal-project/static/js/787.79754519.chunk.js",
+    "main.css": "/fabian-personal-project/static/css/main.dadd2a92.css",
+    "main.js": "/fabian-personal-project/static/js/main.e9aa4a22.js",
+    "static/js/453.28e8c97d.chunk.js": "/fabian-personal-project/static/js/453.28e8c97d.chunk.js",
     "static/media/co2_emission.csv": "/fabian-personal-project/static/media/co2_emission.5ed4c265b7b0f7d3a18e.csv",
     "index.html": "/fabian-personal-project/index.html",
-    "main.a94eb3d5.css.map": "/fabian-personal-project/static/css/main.a94eb3d5.css.map",
-    "main.6bb8e303.js.map": "/fabian-personal-project/static/js/main.6bb8e303.js.map",
-    "787.79754519.chunk.js.map": "/fabian-personal-project/static/js/787.79754519.chunk.js.map"
+    "main.dadd2a92.css.map": "/fabian-personal-project/static/css/main.dadd2a92.css.map",
+    "main.e9aa4a22.js.map": "/fabian-personal-project/static/js/main.e9aa4a22.js.map",
+    "453.28e8c97d.chunk.js.map": "/fabian-personal-project/static/js/453.28e8c97d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a94eb3d5.css",
-    "static/js/main.6bb8e303.js"
+    "static/css/main.dadd2a92.css",
+    "static/js/main.e9aa4a22.js"
   ]
 }

@@ -22,7 +22,7 @@ function App() {
   useEffect(() => {
     const handleResize = () => {
       const isMobile = window.innerWidth <= 768;
-      setIsNavbarOpen(!isMobile); // Open on desktop, closed on mobile
+      setIsNavbarOpen(!isMobile); // Open on desktop, collapsed on mobile
     };
 
     // Set initial state

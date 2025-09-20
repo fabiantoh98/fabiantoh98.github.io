@@ -169,12 +169,18 @@
         transform: translateX(0); // Always visible on desktop
     }
 
-    // Mobile responsive design
+    // Mobile responsive design - keep navbar visible but collapsed by default
     @media (max-width: 768px) {
-        transform: translateX(-100%);
+        width: 70px; // Start collapsed on mobile
+        transform: translateX(0); // Always visible
 
         &.open {
-            transform: translateX(0);
+            width: 250px; // Expand when opened
+        }
+
+        // Ensure hamburger is always visible
+        .nav-header .hamburger {
+            display: block;
         }
     }
 }

@@ -24,13 +24,17 @@
       }
 
       @media (max-width: 768px) {
-        margin-left: 0;
-        width: 100%;
         position: relative;
 
         &.navbar-collapsed {
-          margin-left: 0;
-          width: 100%;
+          margin-left: 70px; // Collapsed navbar is 70px wide
+          width: calc(100% - 70px);
+        }
+
+        // When navbar is expanded on mobile (no navbar-collapsed class)
+        &:not(.navbar-collapsed) {
+          margin-left: 250px; // Expanded navbar is 250px wide
+          width: calc(100% - 250px);
         }
       }
     }

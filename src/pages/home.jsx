@@ -19,29 +19,29 @@ const Home = () => {
 
           <div className="featured-project">
             <div className="project-highlight">
-              <h4>🤖 CIFAR-10 Image Classification</h4>
-              <p className="tech-stack">PyTorch • MLflow • Transfer Learning • Computer Vision</p>
-              <p>End-to-end machine learning pipeline achieving <strong>95.73% accuracy</strong> on CIFAR-10 dataset using RegNet_Y_800MF with transfer learning. Features comprehensive model comparison, MLflow experiment tracking, and configurable Hydra parameters.</p>
+              <h4>Spice Bae - AI-Powered Spice Advisor</h4>
+              <p className="tech-stack">MCP &bull; Neo4j &bull; Gradio &bull; Claude AI &bull; LlamaIndex</p>
+              <p>AI-powered spice advisor with <strong>88+ spices</strong>, nutritional data from USDA, and health benefits from NCCIH. Built with Gradio, LlamaIndex, Neo4j, and Claude for the MCP 1st Birthday Hackathon. Exposes tools via Model Context Protocol for AI agent integration.</p>
               <div className="project-links">
-                <a href="https://github.com/fabiantoh98/CIFAR10-image_classification" target="_blank" rel="noopener noreferrer" className="github-link">
-                  📖 View on GitHub
+                <a href="https://github.com/fabiantoh98/spice_bae" target="_blank" rel="noopener noreferrer" className="github-link">
+                  View on GitHub
                 </a>
               </div>
             </div>
           </div>
 
           <div className="project-grid">
-            <div className="project-card" onClick={() => navigate('/game')}>
-              <h4>🧠 Interactive Quiz System</h4>
-              <p>Knowledge assessment tool with dynamic question loading</p>
+            <div className="project-card" onClick={() => navigate('/ml_projects')}>
+              <h4>LLM Preference Learning</h4>
+              <p>DPO, ORPO, KTO, and RLHF comparison on a single consumer GPU</p>
             </div>
-            <div className="project-card" onClick={() => navigate('/dashboard')}>
-              <h4>📊 Data Visualization Dashboard</h4>
-              <p>CO2 emissions analytics with interactive charts</p>
+            <div className="project-card" onClick={() => navigate('/ml_projects')}>
+              <h4>CIFAR-10 Image Classification</h4>
+              <p>95.73% accuracy with transfer learning and MLflow tracking</p>
             </div>
-            <div className="project-card" onClick={() => navigate('/game')}>
-              <h4>🎮 Interactive Games</h4>
-              <p>Collection of web-based applications and utilities</p>
+            <div className="project-card" onClick={() => navigate('/ml_projects')}>
+              <h4>Edge AI RAG Bot</h4>
+              <p>RAG chatbot with FastAPI, Streamlit, and local inference</p>
             </div>
           </div>
         </div>
@@ -52,5 +52,5 @@ const Home = () => {
       </div>
     );
   }
-   
+
   export default Home;
